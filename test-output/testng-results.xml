@@ -2,68 +2,68 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-25T17:36:07 CEST" name="Default suite" finished-at="2022-04-25T17:37:58 CEST" duration-ms="110824">
+  <suite started-at="2022-04-25T20:01:06 CEST" name="Default suite" finished-at="2022-04-25T20:03:03 CEST" duration-ms="116211">
     <groups>
     </groups>
-    <test started-at="2022-04-25T17:36:07 CEST" name="Default test" finished-at="2022-04-25T17:37:58 CEST" duration-ms="110824">
+    <test started-at="2022-04-25T20:01:06 CEST" name="Default test" finished-at="2022-04-25T20:03:03 CEST" duration-ms="116211">
       <class name="TestCase.TestCases">
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:07 CEST" name="loginAlza" finished-at="2022-04-25T17:36:16 CEST" duration-ms="8656" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:06 CEST" name="loginAlza" finished-at="2022-04-25T20:01:18 CEST" duration-ms="11394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="invalidLogin()[pri:1, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:16 CEST" name="invalidLogin" finished-at="2022-04-25T17:36:21 CEST" duration-ms="4546" status="PASS">
+        <test-method signature="invalidLogin()[pri:1, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:18 CEST" name="invalidLogin" finished-at="2022-04-25T20:01:23 CEST" duration-ms="5103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLogin -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:21 CEST" name="logoutAlza" finished-at="2022-04-25T17:36:21 CEST" duration-ms="458" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:23 CEST" name="logoutAlza" finished-at="2022-04-25T20:01:23 CEST" duration-ms="550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:21 CEST" name="loginAlza" finished-at="2022-04-25T17:36:31 CEST" duration-ms="9537" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:23 CEST" name="loginAlza" finished-at="2022-04-25T20:01:32 CEST" duration-ms="8522" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="validLogin()[pri:2, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:31 CEST" name="validLogin" finished-at="2022-04-25T17:36:37 CEST" duration-ms="6626" status="PASS">
+        <test-method signature="validLogin()[pri:2, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:32 CEST" name="validLogin" finished-at="2022-04-25T20:01:39 CEST" duration-ms="6510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:37 CEST" name="logoutAlza" finished-at="2022-04-25T17:36:38 CEST" duration-ms="564" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:39 CEST" name="logoutAlza" finished-at="2022-04-25T20:01:39 CEST" duration-ms="594" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:38 CEST" name="loginAlza" finished-at="2022-04-25T17:36:46 CEST" duration-ms="7684" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:39 CEST" name="loginAlza" finished-at="2022-04-25T20:01:47 CEST" duration-ms="7816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="searchVerification()[pri:3, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:46 CEST" name="searchVerification" finished-at="2022-04-25T17:36:56 CEST" duration-ms="10730" status="PASS">
+        <test-method signature="searchVerification()[pri:3, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:01:47 CEST" name="searchVerification" finished-at="2022-04-25T20:02:01 CEST" duration-ms="14527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchVerification -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:56 CEST" name="logoutAlza" finished-at="2022-04-25T17:36:57 CEST" duration-ms="466" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:01 CEST" name="logoutAlza" finished-at="2022-04-25T20:02:02 CEST" duration-ms="465" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:36:57 CEST" name="loginAlza" finished-at="2022-04-25T17:37:04 CEST" duration-ms="7655" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:02 CEST" name="loginAlza" finished-at="2022-04-25T20:02:10 CEST" duration-ms="7905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="buyLater()[pri:4, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:37:04 CEST" name="buyLater" finished-at="2022-04-25T17:37:24 CEST" duration-ms="19940" status="PASS">
+        <test-method signature="buyLater()[pri:4, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:10 CEST" name="buyLater" finished-at="2022-04-25T20:02:29 CEST" duration-ms="19558" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buyLater -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:37:24 CEST" name="logoutAlza" finished-at="2022-04-25T17:37:25 CEST" duration-ms="502" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:29 CEST" name="logoutAlza" finished-at="2022-04-25T20:02:30 CEST" duration-ms="672" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:37:25 CEST" name="loginAlza" finished-at="2022-04-25T17:37:33 CEST" duration-ms="8309" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:30 CEST" name="loginAlza" finished-at="2022-04-25T20:02:37 CEST" duration-ms="7315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="priceVerification()[pri:5, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:37:33 CEST" name="priceVerification" finished-at="2022-04-25T17:37:58 CEST" duration-ms="24621" status="PASS">
+        <test-method signature="priceVerification()[pri:5, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:02:37 CEST" name="priceVerification" finished-at="2022-04-25T20:03:02 CEST" duration-ms="24665" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- priceVerification -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T17:37:58 CEST" name="logoutAlza" finished-at="2022-04-25T17:37:58 CEST" duration-ms="470" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-25T20:03:02 CEST" name="logoutAlza" finished-at="2022-04-25T20:03:03 CEST" duration-ms="548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
