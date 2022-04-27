@@ -5,9 +5,9 @@
     <classes>
       <class name="TestCase.TestCases">
         <methods>
-          <include name="invalidLogin"/>
           <include name="logoutAlza"/>
           <include name="loginAlza"/>
+          <include name="buyLater"/>
         </methods>
       </class> <!-- TestCase.TestCases -->
     </classes>
