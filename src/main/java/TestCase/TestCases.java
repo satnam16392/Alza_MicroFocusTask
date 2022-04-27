@@ -97,6 +97,7 @@ public class TestCases extends Base {
 		}
 		
 		
+		
 		item.proceedToCheckOut.click();
 		int totalPriceOfItem = 0;
 		//Below Code is Used to get the Total Price of all Items added by user 
