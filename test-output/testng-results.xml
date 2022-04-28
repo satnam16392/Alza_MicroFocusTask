@@ -2,96 +2,61 @@
 <testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-26T07:30:01 CEST" name="Default suite" finished-at="2022-04-26T07:32:02 CEST" duration-ms="121429">
+  <suite started-at="2022-04-28T16:05:39 CEST" name="Default suite" finished-at="2022-04-28T16:07:36 CEST" duration-ms="117444">
     <groups>
     </groups>
-    <test started-at="2022-04-26T07:30:01 CEST" name="Default test" finished-at="2022-04-26T07:32:02 CEST" duration-ms="121429">
+    <test started-at="2022-04-28T16:05:39 CEST" name="Default test" finished-at="2022-04-28T16:07:36 CEST" duration-ms="117444">
       <class name="TestCase.TestCases">
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:01 CEST" name="loginAlza" finished-at="2022-04-26T07:30:13 CEST" duration-ms="11436" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:05:39 CEST" name="loginAlza" finished-at="2022-04-28T16:05:46 CEST" duration-ms="7323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="invalidLogin()[pri:1, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:13 CEST" name="invalidLogin" finished-at="2022-04-26T07:30:17 CEST" duration-ms="4904" status="PASS">
+        <test-method signature="invalidLogin()[pri:1, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:05:46 CEST" name="invalidLogin" finished-at="2022-04-28T16:05:50 CEST" duration-ms="3993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLogin -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:17 CEST" name="logoutAlza" finished-at="2022-04-26T07:30:18 CEST" duration-ms="603" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:05:50 CEST" name="logoutAlza" finished-at="2022-04-28T16:05:50 CEST" duration-ms="419" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:18 CEST" name="loginAlza" finished-at="2022-04-26T07:30:27 CEST" duration-ms="8461" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:05:50 CEST" name="loginAlza" finished-at="2022-04-28T16:05:56 CEST" duration-ms="5626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="validLogin()[pri:2, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:27 CEST" name="validLogin" finished-at="2022-04-26T07:30:34 CEST" duration-ms="7122" status="PASS">
+        <test-method signature="validLogin()[pri:2, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:05:56 CEST" name="validLogin" finished-at="2022-04-28T16:06:02 CEST" duration-ms="6276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:34 CEST" name="logoutAlza" finished-at="2022-04-26T07:30:34 CEST" duration-ms="606" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:02 CEST" name="logoutAlza" finished-at="2022-04-28T16:06:03 CEST" duration-ms="572" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:34 CEST" name="loginAlza" finished-at="2022-04-26T07:30:42 CEST" duration-ms="7825" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:03 CEST" name="loginAlza" finished-at="2022-04-28T16:06:09 CEST" duration-ms="6590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="searchVerification()[pri:3, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:42 CEST" name="searchVerification" finished-at="2022-04-26T07:30:52 CEST" duration-ms="10288" status="PASS">
+        <test-method signature="searchVerification()[pri:3, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:09 CEST" name="searchVerification" finished-at="2022-04-28T16:06:20 CEST" duration-ms="10516" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchVerification -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:52 CEST" name="logoutAlza" finished-at="2022-04-26T07:30:53 CEST" duration-ms="452" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:20 CEST" name="logoutAlza" finished-at="2022-04-28T16:06:20 CEST" duration-ms="491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:30:53 CEST" name="loginAlza" finished-at="2022-04-26T07:31:01 CEST" duration-ms="7940" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:20 CEST" name="loginAlza" finished-at="2022-04-28T16:06:28 CEST" duration-ms="7189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="buyLater()[pri:4, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:31:01 CEST" name="buyLater" finished-at="2022-04-26T07:31:29 CEST" duration-ms="28581" status="FAIL">
-          <exception class="org.openqa.selenium.StaleElementReferenceException">
+        <test-method signature="buyLater()[pri:4, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:06:28 CEST" name="buyLater" finished-at="2022-04-28T16:07:04 CEST" duration-ms="36180" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[stale element reference: element is not attached to the page document
-  (Session info: chrome=100.0.4896.127)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
-Build info: version: '4.1.3', revision: '7b1ebf28ef'
-System info: host: 'CPX-01PTR7VXS1V', ip: '192.168.1.197', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [28731eba797f9da77ac9bd3e08c1429b, clickElement {id=48ce748b-acee-4059-a5f9-77ca20a5c7ee}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\SATNAM~1.SIN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:53856}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53856/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (28731eba797f9da77ac9bd3e08c1429b)] -> xpath: //span[contains(@class, 'normalBlock')]//span[text()='Saved for later']]
-Session ID: 28731eba797f9da77ac9bd3e08c1429b]]>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='alzaDialog']//div[@class="close"]' (tried for 5 second(s) with 500 milliseconds interval)]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
-  (Session info: chrome=100.0.4896.127)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
-Build info: version: '4.1.3', revision: '7b1ebf28ef'
-System info: host: 'CPX-01PTR7VXS1V', ip: '192.168.1.197', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [28731eba797f9da77ac9bd3e08c1429b, clickElement {id=48ce748b-acee-4059-a5f9-77ca20a5c7ee}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\SATNAM~1.SIN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:53856}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53856/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (28731eba797f9da77ac9bd3e08c1429b)] -> xpath: //span[contains(@class, 'normalBlock')]//span[text()='Saved for later']]
-Session ID: 28731eba797f9da77ac9bd3e08c1429b
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
-at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
-at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
-at TestCase.TestCases.buyLater(TestCases.java:174)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='alzaDialog']//div[@class="close"]' (tried for 5 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+at TestCase.TestCases.buyLater(TestCases.java:160)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -120,25 +85,61 @@ at org.testng.TestNG.run(TestNG.java:1031)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='alzaDialog']//div[@class="close"]"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'CPX-01PTR7VXS1V', ip: '192.168.1.197', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [795de67da0b1b35684ebfab876a1d053, findElement {using=xpath, value=//div[@id='alzaDialog']//div[@class="close"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\SATNAM~1.SIN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:50641}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50641/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 795de67da0b1b35684ebfab876a1d053
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:385)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:377)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:660)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+... 29 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buyLater -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:31:29 CEST" name="logoutAlza" finished-at="2022-04-26T07:31:30 CEST" duration-ms="608" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:07:04 CEST" name="logoutAlza" finished-at="2022-04-28T16:07:04 CEST" duration-ms="476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->
-        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:31:30 CEST" name="loginAlza" finished-at="2022-04-26T07:31:38 CEST" duration-ms="7927" status="PASS">
+        <test-method is-config="true" signature="loginAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:07:04 CEST" name="loginAlza" finished-at="2022-04-28T16:07:12 CEST" duration-ms="7582" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAlza -->
-        <test-method signature="priceVerification()[pri:5, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:31:38 CEST" name="priceVerification" finished-at="2022-04-26T07:32:02 CEST" duration-ms="23983" status="PASS">
+        <test-method signature="priceVerification()[pri:5, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:07:12 CEST" name="priceVerification" finished-at="2022-04-28T16:07:35 CEST" duration-ms="23671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- priceVerification -->
-        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-26T07:32:02 CEST" name="logoutAlza" finished-at="2022-04-26T07:32:02 CEST" duration-ms="623" status="PASS">
+        <test-method is-config="true" signature="logoutAlza()[pri:0, instance:TestCase.TestCases@156b88f5]" started-at="2022-04-28T16:07:35 CEST" name="logoutAlza" finished-at="2022-04-28T16:07:36 CEST" duration-ms="489" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAlza -->

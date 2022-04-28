@@ -27,7 +27,6 @@ public WebDriverWait wait;
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		wait = new WebDriverWait(driver, Duration.ofSeconds(5));	
 		
-		
 	}
 	
 	@AfterMethod

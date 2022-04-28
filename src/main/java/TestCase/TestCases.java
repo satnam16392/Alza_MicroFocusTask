@@ -17,7 +17,7 @@ public class TestCases extends Base {
 	
 	
 	//Below Test Check the Functionality of Login with Valid Credentials
-	@Test(priority=2)
+	@Test(enabled=false)
 		public void validLogin() throws Exception
 		{
 			LoginPage Login = new LoginPage(driver);
@@ -36,7 +36,7 @@ public class TestCases extends Base {
 		}
 	
 	//Below Test Check the Functionality of Login with Invalid Credentials and Verify Error Message is Displayed
-	@Test(priority=1)
+	@Test(enabled=false)
 	public void invalidLogin() throws Exception
 	{
 		LoginPage Login = new LoginPage(driver);
@@ -54,7 +54,7 @@ public class TestCases extends Base {
 		
 	}
 	//Below Test Check the Functionality if Total Price of Items Added by User is same as Total Amount displayed  in Cart Section 
-	@Test(priority=5)
+	@Test(enabled=false)
 	public void priceVerification() throws Exception
 	{
 		// Creating Objects of the Classes which are implemented
@@ -97,7 +97,6 @@ public class TestCases extends Base {
 		}
 		
 		
-		
 		item.proceedToCheckOut.click();
 		int totalPriceOfItem = 0;
 		//Below Code is Used to get the Total Price of all Items added by user 
@@ -131,7 +130,7 @@ public class TestCases extends Base {
 	}
 	
 	//Below Test Check the Functionality of Buy Later(Correct Item is moved to Saved For Later page once user select item as Buy Later)
-	@Test(priority=4)
+	@Test(enabled=true)
 	public void buyLater() throws Exception
 	{
 		// Creating Objects of the Classes which are implemented
@@ -181,19 +180,16 @@ public class TestCases extends Base {
 		
 		Assert.assertTrue(productNameInCartPage.contains(productNameInBuyLater));
 
-		
 	}
 	
 	//Below Test Check the Search Functionality(Related Item are displayed once User Search for a Product )
 	
-	@Test(priority=3)
+	@Test(enabled=false)
 	public void searchVerification() throws Exception
 	{
 		// Creating Objects of the Classes which are implemented
 		LoginPage Login = new LoginPage(driver);
 		HomePage home = new HomePage(driver);
-		
-		
 		
 		Login.clickIUnderstand.click();
 		Login.ClosePopUp.click();
