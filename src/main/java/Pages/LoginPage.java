@@ -58,7 +58,7 @@ WebDriver driver;
 	public LoginPage clickSubmit()
 	{
 		submitButton.click();
-		return new LoginPage(driver);    // Need to understand this 
+		return new LoginPage(driver);
 	}
 	
 	@FindBy(xpath="//a[(@class='loggedUser')]")
